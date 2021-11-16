@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>Assembly</item>
+        <item>Basic</item>
+        <item>C</item>
+        <item>Delphi</item>
+        <item>Erlang</item>
+        <item>F#</item>
+        <item>GoLang</item>
+        <item>Haskell</item>
+        <item>Ionic</item>
+        <item>Javascript</item>
+        <item>Kotlin</item>
+        <item>Lua</item>
+        <item>MySQL</item>
+        <item>NoSQL</item>
+        <item>Objective-C</item>
+        <item>PHP</item>
+        <item>Query</item>
+        <item>R</item>
+        <item>Sass</item>
+        <item>TypeScript</item>
+        <item>UML</item>
+        <item>VisualBasic</item>
+        <item>Wolfram</item>
+        <item>XML</item>
+        <item>Yorick</item>
+        <item>Z Shell</item>
+    </string-array>
+</resources>
